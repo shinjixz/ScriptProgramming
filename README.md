@@ -1,2 +1,2 @@
 # Lab2
-Lab2 Script Programming
+ชื่อ นายกฤษฎา สายวัน รหัสนักศึกษา 683380646-7 Section 3
